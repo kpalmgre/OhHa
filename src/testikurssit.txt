@@ -1,0 +1,4 @@
+testikurssi1|5|testit|pakollinen|1
+testikurssi2|5|testit|pakollinen|5
+testikurssi3|5|testit|valinnainen|5
+testikurssi4|5|testit|valinnainen|0

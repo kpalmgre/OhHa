@@ -1,0 +1,29 @@
+Vuorovaikutukset ja kappaleet|5|perusopinnot|pakollinen|1
+Vuorovaikutukset ja aine|5|perusopinnot|pakollinen|0
+Sähkömagnetismi|5|perusopinnot|pakollinen|0
+Säteilykentät ja fotonit|5|perusopinnot|pakollinen|0
+Perusopintojen laboratoriotyöt|5|perusopinnot|pakollinen|0
+Matemaattiset apuneuvot I|8|perusopinnot|pakollinen|0
+Matemaattiset apuneuvot II|8|perusopinnot|pakollinen|0
+Suhteellisuusteorian perusteet|4|perusopinnot|pakollinen|0
+Kvanttifysiikan perusteet|5|perusopinnot|pakollinen|0
+Fysiikan matemaattiset menetelmät Ia|5|aineopinnot|pakollinen|0
+Fysiikan matemaattiset menetelmät Ib|5|aineopinnot|pakollinen|0
+Fysiikan matemaattiset menetelmät IIa|5|aineopinnot|pakollinen|0
+Fysiikan matemaattiset menetelmät IIb|5|aineopinnot|pakollinen|0
+Analyyttinen mekaniikka |5|aineopinnot|pakollinen|0
+Elektrodynamiikka I|5|aineopinnot|pakollinen|0
+Elektrodynamiikka II |5|aineopinnot|pakollinen|0
+Kvanttimekaniikka I|10|aineopinnot|pakollinen|0
+Statistinen fysiikka I|7|aineopinnot|pakollinen|0
+Termofysiikka|8|aineopinnot|pakollinen|0
+Fysikaalisten tieteiden esittely|3|muutopinnot|pakollinen|0
+TVT-ajokortti|3|muutopinnot|pakollinen|0
+Tieteellinen laskenta I|3|muutopinnot|pakollinen|0
+Äidinkielen tutkielmaseminaari|3|muutopinnot|pakollinen|0
+Jatkumomekaniikan perusteet|5|valinnaisetopinnot|valinnainen|0
+Johdatus hiukkasfysiikkaan I|5|valinnaisetopinnot|valinnainen|0
+Tieteellinen laskenta II|5|valinnaisetopinnot|valinnainen|0
+Materiaalifysiikka I|5|valinnaisetopinnot|valinnainen|0
+Nanotieteen perusteet|3|valinnaisetopinnot|valinnainen|0
+Astrofysiikan peruskurssi|8|valinnaisetopinnot|valinnainen|0
