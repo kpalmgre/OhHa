@@ -9,10 +9,6 @@ import java.util.*;
 
 public class Apumetodit {
 
-    /**
-     * Käsiteltävät listat sisältävät Kurssi-olioita.
-     */
-    private static Kurssi kurssi;
 
     /**
      * Avaa tekstitiedoston lukemista varten.
@@ -80,7 +76,7 @@ public class Apumetodit {
     public static void lisaaArvosana(ArrayList<Kurssi> kurssilista, String kurssinimi, int arvosana, String tiedosto) {
         int i = 0;
         while (i < kurssilista.size()) {
-            kurssi = kurssilista.get(i);
+            Kurssi kurssi = kurssilista.get(i);
             if (kurssi.annaNimi().equals(kurssinimi)) {
                 kurssi.asetaArvosana(arvosana);
                 break;

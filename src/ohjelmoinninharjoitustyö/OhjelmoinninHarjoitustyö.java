@@ -7,7 +7,7 @@ import javax.swing.JDialog;
 import javax.swing.JOptionPane;
 
 /**
- *
+ * 
  * @author elinapalmgren
  */
 public class OhjelmoinninHarjoitustyö implements ActionListener {
@@ -31,10 +31,6 @@ public class OhjelmoinninHarjoitustyö implements ActionListener {
      * varten.
      */
     static ActionListener kuuntelija;
-    /**
-     * ArrayList-listoihin talletetaan kurssit Kurssi-olioina.
-     */
-    static Kurssi kurssi;
 
     /**
      * Luo kuuntelijan graafisen käyttöliittymän nappulaa varten.
@@ -75,7 +71,7 @@ public class OhjelmoinninHarjoitustyö implements ActionListener {
         ArrayList<Kurssi> lista = new ArrayList<Kurssi>();
         while (syottotiedosto.hasNextLine()) {
             temp = syottotiedosto.nextLine().split("\\|");
-            kurssi = new Kurssi(temp);
+            Kurssi kurssi = new Kurssi(temp);
             lista.add(kurssi);
         }
 
